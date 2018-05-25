@@ -1,6 +1,6 @@
 ## Welcome to My Blog website
 
-You can use can say hello through this awsome tool I am experminting with right now oh Say hello to mother for me too.
+You can say hello through this awsome tool I am experminting with right now.
 
 
 ### Markdown
