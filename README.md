@@ -26,7 +26,7 @@ Syntax highlighted code block
 ```
 
 
-### Jekyll Themes
+### Michy Scholar
 
 
 ### Support or Contact
